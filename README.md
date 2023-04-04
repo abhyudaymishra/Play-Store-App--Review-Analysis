@@ -1,4 +1,8 @@
 # Play-Store-Analysis
+
+![image_processing20200506-1844-15ntpsj](https://user-images.githubusercontent.com/122104510/229830060-29f72710-f2b6-4d17-9e87-06cb403a20d2.gif)
+
+
 Play Store is a digital distribution platform for Android applications, games, music, and books. The platform is a part of the Google Play ecosystem, which provides a seamless user experience for all Google services. It is an official app store for Android devices and is a crucial component of the Android operating system.
 
 Exploratory Data Analysis (EDA) on the Google Play Store dataset can be used to gain insights into the various trends and patterns in the Android app market. EDA helps in uncovering interesting relationships and patterns between different variables. In this analysis, we will explore the distribution of various characteristics of the apps in the Google Play Store.
